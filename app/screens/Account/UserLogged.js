@@ -1,10 +1,10 @@
 import React from 'react';
 import { View, Text } from 'react-native';
 
-export const Account = () => {
+export const UserLogged = () => {
   return (
     <View>
-      <Text>Accounts</Text>
+      <Text>User Logged ...</Text>
     </View>
   );
 };
